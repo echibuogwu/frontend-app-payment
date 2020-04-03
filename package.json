@@ -36,7 +36,7 @@
     "url": "https://github.com/edx/frontend-app-payment/issues"
   },
   "dependencies": {
-    "@edx/frontend-component-footer": "10.0.3",
+    "@edx/frontend-component-footer": "10.0.9",
     "@edx/frontend-component-header": "2.0.3",
     "@edx/frontend-platform": "1.1.9",
     "@edx/paragon": "7.2.1",
